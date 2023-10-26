@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Caden Chau | Music</title>
+    <link rel="icon" href="assets/music_icon.png">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Fira Code">
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+  </head>
+  <body>
+    <div class="top-button" onclick="document.querySelector('#musicContainer').scrollTop = 0"><img src="assets/icon_arrow_up.png"></div>
+    <div class="navigation">
+      <div class="title centered-vertically">
+        <a href="https://cadenchau.com">Caden Chau /</a>
+        Music
+      </div>
+      <div class="centered-children">
+        <input id="searchBar" type="text" autocomplete="off" spellcheck="false" placeholder="Search">
+      </div>
+    </div>
+    <div class="wrapper centered-children">
+      <div class="container centered-children">
+        <div class="selection-container centered-vertically">
+          <div class="title" style="font-size: 1.2rem">Showing <span id="results">&nbsp;&nbsp;&nbsp;</span> results</div>
+          <div class="right-section centered-vertically" style="gap: 1em">
+            <div id="sortItems" class="centered-vertically" style="gap: 1em">
+              <div class="sort-option selected" onclick="setSelection(0)">All</div>
+              <div class="sort-option" onclick="setSelection(1)">Favorites</div>
+              <div class="sort-option" onclick="setSelection(2)">Author</div>
+            </div>
+            <img class="sort-icon" src="assets/icon_sort.png" onclick="toggleSort()">
+          </div>
+        </div>
+        <div id="musicContainer"></div>
+      </div>
+      <!--
+      <div class="container">
+        <div class="selection-container centered-vertically">
+          <div class="title" style="font-size: 1.2rem">Showing <span id="results">&nbsp;&nbsp;&nbsp;</span> results</div>
+          <div class="right-section centered-vertically" style="gap: 1em">
+            <div id="sortItems" class="centered-vertically" style="gap: 1em">
+              <div class="sort-option selected" onclick="setSelection(0)">All</div>
+              <div class="sort-option" onclick="setSelection(1)">Favorites</div>
+              <div class="sort-option" onclick="setSelection(2)">Author</div>
+            </div>
+            <img class="sort-icon" src="assets/icon_sort.png" onclick="toggleSort()">
+          </div>
+        </div>
+        <div id="musicContainer"></div>
+      </div> -->
+    </div>
+  </body>
+</html>
