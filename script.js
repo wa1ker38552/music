@@ -116,7 +116,8 @@ const songs = [
   ["MISS ME?", "Kordhell", "https://www.youtube.com/watch?v=aYtOKQ9LYYQ", "https://i.scdn.co/image/ab67616d0000b273c33cd36125593abbd6a02b92"],
   ["S.X.N.D. N.X.D.E.S.", "GREEN ORXNGE", "https://www.youtube.com/watch?v=Co0pU_sUqKk", "https://i.ytimg.com/vi/Co0pU_sUqKk/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBUgcigRMA8=&rs=AOn4CLAct0vFuLa2R5n2KMeL_09rRE4Cgg"],
   ["POOR", "gqtis", "https://www.youtube.com/watch?v=tV-fEIVBmEw", "https://i1.sndcdn.com/artworks-6i7yLHVEHNCdOekK-f2FY4A-t500x500.jpg"],
-  ["*Heart Attack", "Luxcious", "https://www.youtube.com/watch?v=pLa2yrk_guE", "https://i.ytimg.com/vi/4SialxxA3jk/maxresdefault.jpg"]
+  ["*Heart Attack", "Luxcious", "https://www.youtube.com/watch?v=pLa2yrk_guE", "https://i.ytimg.com/vi/4SialxxA3jk/maxresdefault.jpg"],
+  ["*Freedom Dive", "xi", "https://www.youtube.com/watch?v=k-3y2LVF_SE&ab_channel=xi-Topic", "https://i.scdn.co/image/ab67616d0000b2736252116ae9c3f1dd7b103929"]
 ]
 
 function toggleSort() {
