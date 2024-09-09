@@ -117,7 +117,25 @@ const songs = [
   ["S.X.N.D. N.X.D.E.S.", "GREEN ORXNGE", "https://www.youtube.com/watch?v=Co0pU_sUqKk", "https://i.ytimg.com/vi/Co0pU_sUqKk/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBUgcigRMA8=&rs=AOn4CLAct0vFuLa2R5n2KMeL_09rRE4Cgg"],
   ["POOR", "gqtis", "https://www.youtube.com/watch?v=tV-fEIVBmEw", "https://i1.sndcdn.com/artworks-6i7yLHVEHNCdOekK-f2FY4A-t500x500.jpg"],
   ["*Heart Attack", "Luxcious", "https://www.youtube.com/watch?v=pLa2yrk_guE", "https://i.ytimg.com/vi/4SialxxA3jk/maxresdefault.jpg"],
-  ["*Freedom Dive", "xi", "https://www.youtube.com/watch?v=k-3y2LVF_SE&ab_channel=xi-Topic", "https://i.scdn.co/image/ab67616d0000b2736252116ae9c3f1dd7b103929"]
+  ["*Freedom Dive", "xi", "https://www.youtube.com/watch?v=k-3y2LVF_SE&ab_channel=xi-Topic", "https://i.scdn.co/image/ab67616d0000b2736252116ae9c3f1dd7b103929"],
+  ["Wellerman", "Nathan Evans", "https://www.youtube.com/watch?v=qP-7GNoDJ5c", "https://i.scdn.co/image/ab67616d0000b273db24f6590f4ad36048076521"],
+  ["FUNK ESTRANHO", "ALXIKE", "https://www.youtube.com/watch?v=VncGDqIbNVQ", "https://m.media-amazon.com/images/I/41Nv2x7h3JL._UXNaN_FMjpg_QL85_.jpg"],
+  ["L'AMOUR TOUJOURS", "GIGI D'AGOSTINO", "https://www.youtube.com/watch?v=w15oWDh02K4", "https://upload.wikimedia.org/wikipedia/en/f/f5/Gigi_Amour_single.jpg"],
+  ["*i like the way you kiss me", "Artemas", "https://www.youtube.com/watch?v=evJ6gX1lp2o&list=LL&index=13", "https://upload.wikimedia.org/wikipedia/en/3/3e/Artemas_-_I_Like_the_Way_You_Kiss_Me.png"],
+  ["*SLAY!", "Eternxlkz", "https://www.youtube.com/watch?v=qlzcHe_gusE", "https://i1.sndcdn.com/artworks-9hvowjgyyHy6JaON-7o79iQ-t1080x1080.jpg"],
+  ["*ENOUGH!", "Eternxlkz", "https://www.youtube.com/watch?v=4W5ir4DOtoE", "https://i.scdn.co/image/ab67616d00001e02c80fe27586c2da910984cb9a"],
+  ["*BRODYAGA FUNK", "Eternxlkz", "https://www.youtube.com/watch?v=szJn6ayPv-4", "https://i1.sndcdn.com/artworks-9hvowjgyyHy6JaON-7o79iQ-t1080x1080.jpg"],
+  ["DRESS!", "Eternxlkz", "https://www.youtube.com/watch?v=HPcXv_A6QTU", "https://i1.sndcdn.com/artworks-qhGC4uOjqGxjTjHI-VtFjgQ-t500x500.jpg"],
+  ["*Home", "Edward Sharpe & The Magnetic Zeros", "https://www.youtube.com/watch?v=A5rohNXvVSc", "https://i.scdn.co/image/ab67616d0000b273e0dd719897dd60694ce7593d"],
+  ["*Riptide", "Vance Joy", "https://www.youtube.com/watch?v=lYoWuaw5nSk", "https://i1.sndcdn.com/artworks-f5rtrZp6dmab-0-t500x500.jpg"],
+  ["Viva La Vida", "Coldplay", "https://www.youtube.com/watch?v=dvgZkm1xWPE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQzcMYfO0nGE0zaQ8vBfh7PkGwf4aNFo6Ig&s"],
+  ["Can't Hold Us", "Macklemore & Ryan Lewis", "https://www.youtube.com/watch?v=VG3JsmOmDqw", "https://upload.wikimedia.org/wikipedia/en/6/61/Can%27t_Hold_Us.png"],
+  ["Counting Stars", "OneRepublic", "https://www.youtube.com/watch?v=hT_nvWreIhg", "https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb"],
+  ["I Ain’t Worried", "OneRepublic", "https://www.youtube.com/watch?v=mNEUkkoUoIA", "https://upload.wikimedia.org/wikipedia/en/c/cf/I_Ain%27t_Worried_-_OneRepublic.jpg"],
+  ["*WAKE UP!", "MoonDeity", "https://www.youtube.com/watch?v=tKvEnZSoqas&list=RDtKvEnZSoqas&start_radio=1", "https://i1.sndcdn.com/artworks-fv537Hu4dwbL62Gc-1NvWLA-t500x500.jpg"],
+  ["*Ainsi Bas La Vida Funk", "DR MØB & ZODIVK", "https://www.youtube.com/watch?v=1FSnAMe5WXE&list=RDtKvEnZSoqas&index=2", "https://geo-media.beatport.com/image_size/1400x1400/2255a1f1-b968-4020-a883-175906e20933.jpg"],
+  ["*SLAUGHTER HOUSE", "Phonkha x zecki", "https://www.youtube.com/watch?v=8zBp1jzHf3Y&list=RDtKvEnZSoqas&index=9", "https://i1.sndcdn.com/artworks-gZXLwfAdtu3lnByS-xSyNLw-t500x500.jpg"],
+  ["*LAND OF FIRE", "KORDHELL", "https://www.youtube.com/watch?v=yahUpxNPK98&list=RDtKvEnZSoqas&index=28", "https://i.scdn.co/image/ab67616d0000b273c2c8cfd3f522e17789b17686"]
 ]
 
 function toggleSort() {
