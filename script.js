@@ -128,7 +128,6 @@ const songs = [
   ["DRESS!", "Eternxlkz", "https://www.youtube.com/watch?v=HPcXv_A6QTU", "https://i1.sndcdn.com/artworks-qhGC4uOjqGxjTjHI-VtFjgQ-t500x500.jpg"],
   ["*Home", "Edward Sharpe & The Magnetic Zeros", "https://www.youtube.com/watch?v=A5rohNXvVSc", "https://i.scdn.co/image/ab67616d0000b273e0dd719897dd60694ce7593d"],
   ["*Riptide", "Vance Joy", "https://www.youtube.com/watch?v=lYoWuaw5nSk", "https://i1.sndcdn.com/artworks-f5rtrZp6dmab-0-t500x500.jpg"],
-  ["Viva La Vida", "Coldplay", "https://www.youtube.com/watch?v=dvgZkm1xWPE", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQzcMYfO0nGE0zaQ8vBfh7PkGwf4aNFo6Ig&s"],
   ["Can't Hold Us", "Macklemore & Ryan Lewis", "https://www.youtube.com/watch?v=VG3JsmOmDqw", "https://upload.wikimedia.org/wikipedia/en/6/61/Can%27t_Hold_Us.png"],
   ["Counting Stars", "OneRepublic", "https://www.youtube.com/watch?v=hT_nvWreIhg", "https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb"],
   ["I Ain’t Worried", "OneRepublic", "https://www.youtube.com/watch?v=mNEUkkoUoIA", "https://upload.wikimedia.org/wikipedia/en/c/cf/I_Ain%27t_Worried_-_OneRepublic.jpg"],
