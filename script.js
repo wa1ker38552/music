@@ -134,7 +134,21 @@ const songs = [
   ["*WAKE UP!", "MoonDeity", "https://www.youtube.com/watch?v=tKvEnZSoqas&list=RDtKvEnZSoqas&start_radio=1", "https://i1.sndcdn.com/artworks-fv537Hu4dwbL62Gc-1NvWLA-t500x500.jpg"],
   ["*Ainsi Bas La Vida Funk", "DR MØB & ZODIVK", "https://www.youtube.com/watch?v=1FSnAMe5WXE&list=RDtKvEnZSoqas&index=2", "https://geo-media.beatport.com/image_size/1400x1400/2255a1f1-b968-4020-a883-175906e20933.jpg"],
   ["*SLAUGHTER HOUSE", "Phonkha x zecki", "https://www.youtube.com/watch?v=8zBp1jzHf3Y&list=RDtKvEnZSoqas&index=9", "https://i1.sndcdn.com/artworks-gZXLwfAdtu3lnByS-xSyNLw-t500x500.jpg"],
-  ["*LAND OF FIRE", "KORDHELL", "https://www.youtube.com/watch?v=yahUpxNPK98&list=RDtKvEnZSoqas&index=28", "https://i.scdn.co/image/ab67616d0000b273c2c8cfd3f522e17789b17686"]
+  ["*LAND OF FIRE", "KORDHELL", "https://www.youtube.com/watch?v=yahUpxNPK98&list=RDtKvEnZSoqas&index=28", "https://i.scdn.co/image/ab67616d0000b273c2c8cfd3f522e17789b17686"],
+  ["The Motto", "Tiesto & Ava Max", "https://www.youtube.com/watch?v=rbJjpU6BEps", "https://upload.wikimedia.org/wikipedia/en/6/63/Ti%C3%ABsto_-_The_Motto.jpg"],
+  ["Bumble Bee", "Bambee", "https://www.youtube.com/watch?v=UlwfDIf8e3Q", "https://i.scdn.co/image/ab67616d0000b27323ae0821a4c7e30bec64afbf"],
+  ["Jerk It Out", "Caesars Palace", "https://www.youtube.com/watch?v=w869Avr_fXI", "https://upload.wikimedia.org/wikipedia/en/7/7c/Jerk_It_Out_-_The_Caesars.jpg"],
+  ["*2 PHÚT HƠN FUNK", "KhangMxne and MGD", "https://www.youtube.com/watch?v=bnuRGXYitJI", "https://i.scdn.co/image/ab67616d0000b273632d3c4e53569cf7f0847f11"],
+  ["*PUNK or FUNK", "DR MØB", "https://www.youtube.com/watch?v=Ofo4aDjuDPI", "https://is1-ssl.mzstatic.com/image/thumb/Music126/v4/a7/ea/15/a7ea15e2-3078-0788-3d75-4be02d9943b5/artwork.jpg/600x600bf-60.jpg"],
+  ["*Sofia", "Alvaro Soler", "https://www.youtube.com/watch?v=qaZ0oAh4evU", "https://upload.wikimedia.org/wikipedia/en/d/d3/Sofia-song-by-Alvaro-Soler.jpg"],
+  ["Freaks", "Timmy Trumpet & Savage", "https://www.youtube.com/watch?v=r1dquH_KOQc", "https://i.scdn.co/image/ab67616d0000b27383c104a7444e5bcf01b3d8b1"],
+  ["*What Makes You Beautiful", "One Direction", "https://www.youtube.com/watch?v=QJO3ROT-A4E", "https://i1.sndcdn.com/artworks-000218054713-2hngbp-t500x500.jpg"],
+  ["FUNK DO BOUNCE", "Ariis", "https://www.youtube.com/watch?v=mjsJzKry6E0", "https://i.scdn.co/image/ab67616d0000b2737e37f6e5b613003d4c185672"],
+  ["We Fell Apart", "Anguish", "https://www.youtube.com/watch?v=5DbE23UoVSw", "https://i.scdn.co/image/ab67616d0000b2737a1d8ccf08127d4afada246d"],
+  ["Just Dance", "Lady Gaga", "https://www.youtube.com/watch?v=2Abk1jAONjw", "https://upload.wikimedia.org/wikipedia/en/7/77/Just_Dance_cover.png"],
+  ["*Stolen Dance", "Milky Chance", "https://www.youtube.com/watch?v=iX-QaNzd-0Y", "https://i.scdn.co/image/ab67616d0000b273b5d4730e54f84c66c70fe60a"],
+  ["Judas", "Lady Gaga", "https://www.youtube.com/watch?v=wagn8Wrmzuc", "https://upload.wikimedia.org/wikipedia/en/9/9f/Lady_Gaga_-_Judas_%28single%29.png"],
+  ["Give Me Everything", "Pitbull", "https://www.youtube.com/watch?v=EPo5wWmKEaI", "https://upload.wikimedia.org/wikipedia/en/0/06/Pitbull_-_Give_Me_Everything.jpg"]
 ]
 
 function toggleSort() {
