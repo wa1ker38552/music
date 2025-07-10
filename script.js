@@ -172,7 +172,7 @@ const songs = [
   ["Another Love", "Tom Odell", "https://www.youtube.com/watch?v=YRkWZO4iLYk&list=LL&index=17", "https://i.scdn.co/image/ab67616d0000b2731917a0f3f4152622a040913f"],
   ["アブノーマリティ･ダンシンガール / ぐちり", "Guchiry", "https://www.youtube.com/watch?v=SDt2OOdWR-Y", "https://i.ytimg.com/vi/SDt2OOdWR-Y/maxresdefault.jpg"],
   ["*Hungry", "Rob Bailey & The Hustle Standard", "https://www.youtube.com/watch?v=eqjtavYIzg0&list=LL&index=21", "https://i.scdn.co/image/ab67616d0000b2730029db0c10db0809d7913edb"],
-  ["It's Gonan Be Me", "NSYNC", "https://www.youtube.com/watch?v=Awd2qKNM7FI&list=LL&index=24", "https://upload.wikimedia.org/wikipedia/en/f/f2/ItsGonnaBeMe.jpg"],
+  ["It's Gonna Be Me", "NSYNC", "https://www.youtube.com/watch?v=Awd2qKNM7FI&list=LL&index=24", "https://upload.wikimedia.org/wikipedia/en/f/f2/ItsGonnaBeMe.jpg"],
   ["*Bye Bye Bye", "NSYNC", "https://www.youtube.com/watch?v=2ydCvkxuNm4&list=LL&index=29", "https://upload.wikimedia.org/wikipedia/en/a/aa/Byebyebye.jpg"],
   ["*PSL", "2KE", "https://www.youtube.com/watch?v=KzDqIaT21po&list=LL&index=33", "https://i1.sndcdn.com/artworks-WMXMnwVOxvm8uT0c-LvtZBQ-t500x500.png"]
 ]
